@@ -20,12 +20,13 @@ Compatibility datapack for allowing Dreamwoods' custom trees to be grown from sa
 
 ### Current Plans
 *Document ideas for adding, consolidating, or removing content/features here*
-* Oak sapling pass *Planned*
+* Oak sapling pass *In progress*
 * Spruce sapling pass *Planned*
 * Birch sapling pass *Planned*
 * Jungle sapling pass *Planned*
 * Acacia sapling pass *Planned*
 * Cherry sapling pass *Planned*
+* Azalea "sapling" pass *Planned*
 * Pale Oak pass (Vanilla Backport optional compat) *Planned*
 * Additional tree models using DW bases + leaf swaps *Planned*
 * Biome injections of new models *Planned*

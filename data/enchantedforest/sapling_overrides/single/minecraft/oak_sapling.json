@@ -1,0 +1,39 @@
+{
+  "replace": false,
+  "values": {
+    "treeplacer:all_biomes": [
+      { "feature": "dreamwoods:dw_trees/bushes/oak_bush", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/bushes_new/big_oak_bush_1", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/bushes_new/big_oak_bush_2", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/bushes_new/medium_oak_bush", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak_new/fancy_oak_tiny", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak_new/fancy_cherry_small", "weight": 10 },
+
+      { "feature": "dreamwoods:dw_trees/oak/oak_1", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak/oak_2", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak/oak_3", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak/oak_4", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak/oak_5", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak/oak_6", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak/oak_7", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak/oak_8", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak/oak_9", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak/oak_10", "weight": 10 },
+
+      { "feature": "dreamwoods:dw_trees/oak/on_1", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak/on_2", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak/on_3", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak/on_4", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak/on_5", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak/on_6", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak/on_7", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak/on_8", "weight": 10 },
+      { "feature": "dreamwoods:dw_trees/oak/on_9", "weight": 10 },
+
+      { "feature": "dreamwoods:tree_dw_oak", "weight": 10 }
+
+    ]
+    
+  }
+
+}
