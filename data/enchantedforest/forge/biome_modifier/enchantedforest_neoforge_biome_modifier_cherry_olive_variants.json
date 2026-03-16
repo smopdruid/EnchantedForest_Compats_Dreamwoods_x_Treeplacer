@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:cherry_grove"
+  ],
+  "features": [
+    "enchantedforest:dw_tree_edit_cherry_olive_1_placed",
+    "enchantedforest:dw_tree_edit_cherry_olive_2_placed"
+  ],
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,58 @@
+{
+  "type": "dreamwoods:custom_tree",
+  "config": {
+    "structure_path": "dreamwoods:dw_trees/big_trees/olive_big_1",
+    "max_tree_size": 32,
+    "can_replace_leaves_in_world": true,
+    "replace_ground_blocks": false,
+    "excluded_blocks": [],
+    "foliage_replacement": {
+      "from": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:oak_leaves"
+        }
+      },
+      "to": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:cherry_leaves"
+        }
+      }
+    },
+    "trunk_replacement": {
+      "from": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:oak_wood"
+        }
+      },
+      "to": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:cherry_wood"
+        }
+      }
+    },
+    "generate_on": [
+      {
+        "target": {
+          "type": "minecraft:matching_block_tag",
+          "tag": "minecraft:dirt"
+        }
+      },
+      {
+        "target": {
+          "type": "minecraft:matching_blocks",
+          "blocks": [
+            "minecraft:grass_block",
+            "minecraft:podzol",
+            "minecraft:mycelium",
+            "minecraft:moss_block",
+            "minecraft:rooted_dirt"
+          ]
+        }
+      }
+    ]
+  }
+}

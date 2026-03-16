@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": {
+    "treeplacer:all_biomes": [
+      { "feature": "enchantedforest:dw_tree_edit_cherry_olive_1", "weight": 10 },
+      { "feature": "enchantedforest:dw_tree_edit_cherry_olive_2", "weight": 10 }
+
+    ]
+    
+  }
+}

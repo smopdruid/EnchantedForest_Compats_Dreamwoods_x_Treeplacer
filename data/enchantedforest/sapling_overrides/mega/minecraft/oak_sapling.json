@@ -1,12 +1,12 @@
 {
-    "replace": false,
-    "values": {
-        "treeplacer:all_biomes": [
-            { "feature": "dreamwoods:tree_dw_oak_thick", "weight": 10 },
-            { "feature": "dreamwoods:tree_dw_oak_thick_2", "weight": 10 },
-            { "feature": "dreamwoods:tree_dw_oak_thick_3", "weight": 10 },
-            { "feature": "dreamwoods:tree_dw_oak_thick_4", "weight": 10 },
-            { "feature": "dreamwoods:tree_dw_oak_thick_5", "weight": 10 }
-        ]
-    }
+  "replace": false,
+  "values": {
+    "treeplacer:all_biomes": [
+       { "feature": "dreamwoods:tree_dw_oak_thick", "weight": 10 },
+       { "feature": "dreamwoods:tree_dw_oak_thick_2", "weight": 10 },
+       { "feature": "dreamwoods:tree_dw_oak_thick_3", "weight": 10 },
+       { "feature": "dreamwoods:tree_dw_oak_thick_4", "weight": 10 },
+       { "feature": "dreamwoods:tree_dw_oak_thick_5", "weight": 10 }
+    ]
+  }
 }
